@@ -52,6 +52,18 @@ activities = {
         "max_participants": 15,
         "participants": ["liam@mergington.edu", "ava@mergington.edu"]
     },
+    "Track and Field": {
+        "description": "Train and compete in running, jumping, and throwing events",
+        "schedule": "Mondays and Thursdays, 4:00 PM - 5:30 PM",
+        "max_participants": 25,
+        "participants": ["sarah@mergington.edu", "ethan@mergington.edu"]
+    },
+    "Swimming Club": {
+        "description": "Improve swimming techniques and participate in swim meets",
+        "schedule": "Tuesdays, 5:00 PM - 6:00 PM",
+        "max_participants": 20,
+        "participants": ["zoe@mergington.edu", "ryan@mergington.edu"]
+    },
     # Artistic activities
     "Art Club": {
         "description": "Explore painting, drawing, and other visual arts",
@@ -65,6 +77,18 @@ activities = {
         "max_participants": 20,
         "participants": ["amelia@mergington.edu", "jack@mergington.edu"]
     },
+    "Photography Club": {
+        "description": "Learn photography skills and showcase your work",
+        "schedule": "Wednesdays, 3:30 PM - 4:30 PM",
+        "max_participants": 12,
+        "participants": ["lucy@mergington.edu", "mason@mergington.edu"]
+    },
+    "Music Ensemble": {
+        "description": "Perform in a group and develop musical talents",
+        "schedule": "Fridays, 4:00 PM - 5:30 PM",
+        "max_participants": 18,
+        "participants": ["leo@mergington.edu", "chloe@mergington.edu"]
+    },
     # Intellectual activities
     "Math Olympiad": {
         "description": "Prepare for math competitions and solve challenging problems",
@@ -77,6 +101,18 @@ activities = {
         "schedule": "Wednesdays, 4:00 PM - 5:30 PM",
         "max_participants": 14,
         "participants": ["henry@mergington.edu", "grace@mergington.edu"]
+    },
+    "Science Club": {
+        "description": "Conduct experiments and explore scientific concepts",
+        "schedule": "Tuesdays, 3:30 PM - 4:30 PM",
+        "max_participants": 15,
+        "participants": ["alex@mergington.edu", "nina@mergington.edu"]
+    },
+    "Book Club": {
+        "description": "Read and discuss literature from various genres",
+        "schedule": "Thursdays, 3:30 PM - 4:30 PM",
+        "max_participants": 12,
+        "participants": ["sam@mergington.edu", "isabella@mergington.edu"]
     }
 }
 
